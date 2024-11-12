@@ -9,7 +9,7 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2000soo&count_bg=%2387CEEB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false&count=0)](https://github.com/2000soo)
 
 <div align="center">
-<strong><h3> 👩‍💻 My Github Stats 👩‍💻 </h3></strong>
+<strong><h3> 👩‍💻 My Github Stats  </h3></strong>
 
 ![2000soo's GitHub Stats][20]
 
@@ -24,7 +24,7 @@
 <br><br>
 
 <div align="center">
-<strong><h3> Tech Stack 📚 </h3></strong>
+<strong><h3> 📚 Tech Stack </h3></strong>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
@@ -45,7 +45,7 @@
 <br><br>
 
 <div align="center">
-<strong><h3> DEV's log 🌈 </h3></strong>
+<strong><h3> 🌈 DEV's log </h3></strong>
 <p align="center">
   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp;
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp;
