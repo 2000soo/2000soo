@@ -6,7 +6,7 @@
 
 ---
 
-[![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2000soo&count_bg=%2387CEEB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false&count=0)](https://github.com/2000soo)
+[![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2000soo&count_bg=%2387CEEB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false&count=0)](https://github.com/2000soo)
 
 <div align="center">
 <strong><h3> 👩‍💻 My Github Stats  </h3></strong>
