@@ -8,19 +8,6 @@
 
 [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2000soo&count_bg=%2387CEEB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false&count=0)](https://github.com/2000soo)
 
-<div align="center">
-<strong><h3> 👩‍💻 My Github Stats  </h3></strong>
-
-![2000soo's GitHub Stats][20]
-
-<!-- links -->
-[10]: https://www.linkedin.com/in/stuart-turner-43958414/
-[10.2]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
-
-[20]: https://github-readme-stats.vercel.app/api?username=2000soo&count_private=true&show_icons=true&theme=tokyonight&hide=contribs
-</div>
-
-
 <br><br>
 
 <div align="center">
@@ -69,3 +56,18 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=songseonho1235@gmail.com"/></a>
 </p>
 </div>
+
+<br><br>
+
+<div align="center">
+<strong><h3> 👩‍💻 My Github Stats  </h3></strong>
+
+![2000soo's GitHub Stats][20]
+
+<!-- links -->
+[10]: https://www.linkedin.com/in/stuart-turner-43958414/
+[10.2]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
+
+[20]: https://github-readme-stats.vercel.app/api?username=2000soo&count_private=true&show_icons=true&theme=tokyonight&hide=contribs
+</div>
+
